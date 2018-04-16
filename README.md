@@ -48,10 +48,11 @@ Functionality of different components:
       This is to add the scroll component to CardList Component to add scrolling feature
 
 ##starting application
-    use npm start command(in terminal) within current directory 
+
+  use npm start command(in terminal) within current directory 
 
 ##Help
 
-for further help,mail to: chandrapenugonda655@gmail.com
+ for further help,mail to: chandrapenugonda655@gmail.com
 
 
