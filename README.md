@@ -40,19 +40,19 @@ Functionality of different components:
 
   * `Card.js:`
 
-      This contain code for creating simple robo component;
+      This contain code for creating simple robo component.
 
   * `CardList.js:`
 
-      This contain code for creating robots from Card Component;
+      This contain code for creating robots from Card Component.
 
   * `Scroll.js:`
 
-      This is to add the scroll component to CardList Component to add scrolling feature
+      This is to encapsulate CardList Component with Scroll.js componenet to add scrolling feature to CardList Component.
 
 ##starting application
 
-  * use npm start command( `in terminal` ) within current directory 
+  * use npm start command  ( `in terminal` )  within current directory.
 
 ##Help
 
