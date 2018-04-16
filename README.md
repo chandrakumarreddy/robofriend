@@ -52,10 +52,10 @@ Functionality of different components:
 
 ##starting application
 
-  use npm start command(in terminal) within current directory 
+  * use npm start command( `in terminal` ) within current directory 
 
 ##Help
 
- for further help,mail to: chandrapenugonda655@gmail.com
+  * for further help,mail to: chandrapenugonda655@gmail.com
 
 
