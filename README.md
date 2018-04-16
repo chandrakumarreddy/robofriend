@@ -56,6 +56,6 @@ Functionality of different components:
 
 ##Help
 
-  * for further help,mail to: chandrapenugonda655@gmail.com
+  * for further help ,`mail me`: `chandrapenugonda655@gmail.com`
 
 
