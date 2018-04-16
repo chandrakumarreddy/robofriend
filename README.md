@@ -38,13 +38,16 @@ For the project to build, **these files must exist with exact filenames**:
 
 Functionality of different components:
 
-  Card.js:
+  * `Card.js:`
+
       This contain code for creating simple robo component;
 
-  CardList.js
+  * `CardList.js:`
+
       This contain code for creating robots from Card Component;
 
-  Scroll.js
+  * `Scroll.js:`
+
       This is to add the scroll component to CardList Component to add scrolling feature
 
 ##starting application
